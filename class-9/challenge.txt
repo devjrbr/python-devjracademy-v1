@@ -1,0 +1,27 @@
+CRUD - CREATE / READ / UPDATE / DELETE
+
+Sistema no estilo terminal
+
+---------------------------------------------
+[1] - Cadastrar ...
+[2] - Listar todos ...
+[3] - Lista por nome ...
+[4] - Atualizar por nome ...
+[5] - Deletar por nome ...
+[0] - Sair ...
+---------------------------------------------
+
+Opção: 
+
+
+Informações gerais:
+
+O banco de dados será em memória (banco ficticio)
+O tema do programa será um sistema para a loja do zézinho.
+O cadastro do cliente deverá ter dados básicos como: nome, endereço, data de nascimento etc. 
+
+
+
+
+
+
